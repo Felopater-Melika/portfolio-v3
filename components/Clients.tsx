@@ -33,7 +33,7 @@ const Clients = () => {
                 {/*    Companies I've worked for</FlipText>*/}
 
                 <h1 className="heading">
-                    Companies <span className="text-purple">I've worked for</span>
+                    Companies <span className="text-purple">I&apos;ve worked for</span>
                 </h1>
             </div>
             <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10 mt-8">
